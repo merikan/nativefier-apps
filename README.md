@@ -7,6 +7,7 @@ Nativefier is a command-line tool to easily create a desktop application for any
 
 # Applications
 * Maconomy
+* Facebook messenger
 
 
 
