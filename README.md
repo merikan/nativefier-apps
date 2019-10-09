@@ -6,8 +6,15 @@ Nativefier is a command-line tool to easily create a desktop application for any
 
 
 # Applications
-* Maconomy
-* Facebook messenger
+## Maconomy   
+-  app-name: Maconomy   
+-  url: https://me71619-iaccess.deltekfirst.com/maconomy
+## Facebook Messenger   
+-  app-name: Messenger   
+-  url: https://www.messenger.com
+## Sveriges Radio   
+-  app-name: sr   
+-  url: https://sverigesradio.se/
 
 
 
