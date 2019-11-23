@@ -4,7 +4,7 @@ arch = x64
 platform = darwin
 APPS := Maconomy Messenger sr
 maconomy_version := v1.0.0
-messenger_version := v1.0.0
+messenger_version := v100.0.0
 sverigesradio_version := v1.0.0
 
 EXECUTABLES = nativefier tar
